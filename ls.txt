@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 eoeiiy eoeiiy 4,0K фев 10 15:15 ./
+drwxr-x--- 21 eoeiiy eoeiiy 4,0K фев 10 15:14 ../
+-rw-rw-r--  1 eoeiiy eoeiiy  689 фев 10 15:13 config.txt
+-rw-rw-r--  1 eoeiiy eoeiiy  165 фев 10 15:08 first.txt
+drwxrwxr-x  8 eoeiiy eoeiiy 4,0K фев 10 15:14 .git/
+-rw-rw-r--  1 eoeiiy eoeiiy    0 фев 10 15:15 ls.txt
+-rw-rw-r--  1 eoeiiy eoeiiy   12 фев 10 15:04 README.md
+-rw-rw-r--  1 eoeiiy eoeiiy  408 фев 10 15:09 status.txt
