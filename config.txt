@@ -1,0 +1,14 @@
+file:/home/eoeiiy/.gitconfig	user.email=aobausova@gmail.com
+file:/home/eoeiiy/.gitconfig	user.name=ar1260
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/ar1260/bausova-ao.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.first.remote=origin
+file:.git/config	branch.first.merge=refs/heads/first
+file:.git/config	user.name=ar1260
+file:.git/config	user.email=aobausova@gmail.com
